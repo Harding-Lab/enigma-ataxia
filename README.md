@@ -23,7 +23,7 @@ Figures folder contains 2 functions to create the forest plots used in figures 1
 # Unthresholded effect size maps can be found here:  https://neurovault.org/collections/QOHTBNAR/
 
 Repo is managed by: \
-Ian Harding (https://github.com/Harding-Lab/)
+Ian Harding (https://github.com/Harding-Lab/) \
 Sidhant Chopra (https://github.com/sidchop/)
 
 
