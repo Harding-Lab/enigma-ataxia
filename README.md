@@ -1,12 +1,8 @@
 ![alt text](https://github.com/Harding-Lab/enigma-ataxia/blob/master/ENIGMA_cat12/enigma.png?raw=true)
-\
-# ENIGMA-Ataxia working group
-Code and pipelines related to:
-*Brain Structure and Disease Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium*
 
-Repo is managed by:
-Ian Harding
-Sidhant Chopra
+# ENIGMA-Ataxia working group
+Code and pipelines related to: \
+**Brain Structure and Disease Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium**
 
 
 # Enigma-Ataxia VBM data processing protocols
@@ -25,5 +21,10 @@ Code used to generate figures:
 Figures folder contains 2 functions to create the forest plots used in figures 1 and 2, respectively. Also includes 2 examples scripts of how the functions are called.
 
 # Unthresholded effect size maps can be found here:  https://neurovault.org/collections/QOHTBNAR/
+
+Repo is managed by: \
+Ian Harding (https://github.com/Harding-Lab/)
+Sidhant Chopra (https://github.com/sidchop/)
+
 
 Please cite the following paper if you use any of the protocols or data provided: Brain Structure and Disease Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium
