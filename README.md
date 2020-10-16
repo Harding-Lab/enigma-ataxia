@@ -14,17 +14,20 @@ Code and pipelines related to: \
 2) ENIGMA_suit
 3) shared
 
+# Results Data
+Thresholded (p-FWE < .05) and non-thresholded effect size maps can be found in the results_maps folder. 
+
 # Other 
 Code used to generate figures: 
 1) Figure1_forestplots.R & make_enigma_forestplots_figure1.R 
 2) Figure2_forestplots.R & make_enigma_forestplots_figure2.R 
 Figures folder contains 2 functions to create the forest plots used in figures 1 and 2, respectively. Also includes 2 examples scripts of how the functions are called.
 
-# Unthresholded effect size maps can be found here:  https://neurovault.org/collections/QOHTBNAR/
+
 
 Repo is managed by: \
 Ian Harding (https://github.com/Harding-Lab/) \
 Sidhant Chopra (https://github.com/sidchop/)
 
 
-Please cite the following paper if you use any of the protocols or data provided: Brain Structure and Disease Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium
+Please cite the following paper if you use any of the protocols or data provided: [To be added].
