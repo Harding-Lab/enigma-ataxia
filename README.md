@@ -2,7 +2,7 @@
 
 # ENIGMA-Ataxia working group
 Code and pipelines related to: \
-**Brain Structure and Disease Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium**
+**Brain Structure and Degeneration Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium (doi: 10.1002/ana.26200)**
 
 
 # Enigma-Ataxia VBM data processing protocols
@@ -30,4 +30,5 @@ Ian Harding (https://github.com/Harding-Lab/) \
 Sidhant Chopra (https://github.com/sidchop/)
 
 
-Please cite the following paper if you use any of the protocols or data provided: [To be added].
+Please cite the following paper if you use any of the protocols or data provided: \
+Harding IH, Chopra S, Arrigoni F, Boesch S, Brunetti A, Cocozza S, Corben LA, Deistung A, Delatycki M, Diciotti S, Dogan I, Evangelisti S, França MC Jr, Göricke SL, Georgiou-Karistianis N, Gramegna LL, Henry PG, Hernandez-Castillo CR, Hutter D, Jahanshad N, Joers JM, Lenglet C, Lodi R, Manners DN, Martinez ARM, Martinuzzi A, Marzi C, Mascalchi M, Nachbauer W, Pane C, Peruzzo D, Pisharady PK, Pontillo G, Reetz K, Rezende TJR, Romanzetti S, Saccà F, Scherfler C, Schulz JB, Stefani A, Testa C, Thomopoulos SI, Timmann D, Tirelli S, Tonon C, Vavla M, Egan GF, Thompson PM. Brain Structure and Degeneration Staging in Friedreich Ataxia: Magnetic Resonance Imaging Volumetrics from the ENIGMA-Ataxia Working Group. Ann Neurol. 2021 Oct;90(4):570-583. doi: 10.1002/ana.26200.
