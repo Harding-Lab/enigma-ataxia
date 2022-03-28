@@ -1,5 +1,3 @@
-![alt text](https://github.com/Harding-Lab/enigma-ataxia/blob/master/ENIGMA_cat12/enigma.png?raw=true)
-
 # ENIGMA-Ataxia working group
 Code and pipelines related to: \
 **Brain Structure and Degeneration Staging in Friedreich Ataxia: MRI Volumetrics from the ENIGMA-Ataxia Consortium (doi: 10.1002/ana.26200)**
